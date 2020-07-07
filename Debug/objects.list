@@ -1,0 +1,7 @@
+"CMSIS/src/system_stm32f1xx.o"
+"Core/src/gpio.o"
+"Core/src/main.o"
+"Core/src/rcc.o"
+"Core/src/tim.o"
+"Core/src/wigand.o"
+"Startup/startup_stm32f103xb.o"
